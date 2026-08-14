@@ -53,6 +53,6 @@ Based on the root-cause analysis, two focused interventions are proposed:
 
 - Open `Return-Refund-Analysis.pbix` in [Power BI Desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads) to interact with filters, slicers, and drill-throughs
 - Or view the static screenshots in the `/screenshots` folder for a quick look
-- *(Optional)* [Live Power BI Service link](#) — add if published
+
 
 
